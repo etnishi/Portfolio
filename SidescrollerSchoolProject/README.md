@@ -23,22 +23,9 @@ Double Jump:		Space after first Jump	(Unlock First)
 Shoot:			Left/Right Arrow Key	(Unlock First)
 
 
+![Image1](https://github.com/etnishi/Portfolio/blob/main/SidescrollerSchoolProject/2022-05-15%2017_11_59-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 
------------------------Known Bugs-----------------------
+![Image2](https://github.com/etnishi/Portfolio/blob/main/SidescrollerSchoolProject/2022-05-15%2017_14_31-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 
-If you land on a ledge at a 45 degree angle, you may clip into the ledge and get stuck.
-
-The Minotar boss has no way to hit you if you stand in the doorway. (His ankles are sore so he can't jump)
-
-
------------------------Missing Features-----------------------
-
-The Water area is just a big empty hole.
-
-The Minotar boss only has one attack
-
-The surface only has the endding
-
-
-
+![Image3](https://github.com/etnishi/Portfolio/blob/main/SidescrollerSchoolProject/2022-05-15%2017_15_19-.png?raw=true)
 
