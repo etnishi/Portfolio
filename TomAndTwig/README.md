@@ -21,8 +21,7 @@ Space	Sprint / Confirm / Talk
 
 ![Overworld](https://github.com/etnishi/Portfolio/blob/main/TomAndTwig/2022-05-15%2017_08_59-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 
-![Dungeon](![image](https://user-images.githubusercontent.com/46575923/168501112-7a0e5ae5-ca43-4650-a5d1-54996028ccaf.png)
-)
+![Dungeon](https://github.com/etnishi/Portfolio/blob/main/TomAndTwig/2022-05-15%2017_09_53-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 
 ![Battle](https://github.com/etnishi/Portfolio/blob/main/TomAndTwig/2022-05-15%2017_10_21-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 
