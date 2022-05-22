@@ -2,7 +2,13 @@
 
 This is my latest attempt as of May 2022 at a Side Scroller project.
 
-This version contains improved versions of previous features such as new movement systems and projectile systems.
+This version contains improved versions of previous features such as a new movement system, aimable projectiles, 
+enemies that can detect players, water / swimming, upgrades/ collectables, NPC dialogue, and fullscreen mode.
+
+The collision detection in this version is now pixle perfect to each object's hitbox.
+
+This version features save and load game functions that save a javascript file in %APPDATA%/SS_Prototype_V3.5.
+
 
 
 --------------------CONTROLS--------------------
