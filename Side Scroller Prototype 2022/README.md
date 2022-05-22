@@ -29,10 +29,25 @@ L Mouse Shoot projectile  (once unlocked)
 
 
 ![Image1](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-15%2017_16_01-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+Starting area.
 
 ![Image2](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-15%2017_16_22-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+Obtaining upgrades
 
 ![Image3](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-15%2017_17_38-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+NPC Dialogue
 
 ![Image4](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-15%2017_18_13-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+Aiming and shooting. Aim is based on mouse movement.
 
+![Water](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-22%2013_00_12-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+Water with player floating.
+
+![In game save object](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-22%2012_57_57-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+In game object for saving.
+
+![Load menu](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-22%2012_59_49-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+Menu for selecting save file.
+
+![Fullscreen option in main menu](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-22%2012_59_28-Created%20with%20GameMaker%20Studio%202.png?raw=true)
+Options menu
