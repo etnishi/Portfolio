@@ -1,6 +1,6 @@
 
 
-This is my latest attempt as of May 2022 at a Side Scroller project.
+This is my latest prototype as of May 2022 of a Side Scroller project.
 
 This version contains improved versions of previous features such as a new movement system, aimable projectiles, 
 enemies that can detect players, water / swimming, upgrades/ collectables, NPC dialogue, and fullscreen mode.
