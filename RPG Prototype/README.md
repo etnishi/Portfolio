@@ -1,4 +1,4 @@
-# RPG prototype
+# RPG Prototype
 
 This is a prototype JRPG style game made in Game Maker.
 

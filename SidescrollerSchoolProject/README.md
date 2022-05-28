@@ -1,3 +1,4 @@
+# Side Scroller School Project
 
 This is my first project made in GML.
 This was made as a two week lab.
