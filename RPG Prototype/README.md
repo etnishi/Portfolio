@@ -8,6 +8,8 @@ techniques gained by making 'Tom and Twig'. However, this version is still early
 The main intent of this version is to make a more easily scallable version of the ideas 
 in 'Tom and Twig' 
 
+Repo: https://github.com/etnishi/RPG_ProjectEtnishi/tree/main
+
 ![Title](https://github.com/etnishi/Portfolio/blob/main/RPG%20Prototype/2022-05-28%2012_32_41-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 Title screen
 
