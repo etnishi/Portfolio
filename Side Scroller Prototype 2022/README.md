@@ -10,6 +10,8 @@ The collision detection in this version is now pixle perfect to each object's hi
 This version features save and load game functions that save a javascript file in %APPDATA%/SS_Prototype_V3.5.
 
 
+Repo: https://github.com/etnishi/PersonalProjectEtnishi
+
 
 --------------------CONTROLS--------------------
 
