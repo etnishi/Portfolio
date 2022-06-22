@@ -16,7 +16,7 @@ D	Move / Menu Right
 
 Space	Sprint / Confirm / Talk
 
-![](https://youtu.be/BPRGubAuqm4)
+![Video](https://youtu.be/BPRGubAuqm4)
 
 ![TitleImage](https://github.com/etnishi/Portfolio/blob/main/TomAndTwig/2022-05-15%2017_08_25-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 
