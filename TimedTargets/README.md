@@ -8,6 +8,7 @@ This was mabe in one day for a college project.
 
 you can release the mouse by pressing ESC.
 
+![Video](https://youtu.be/6XyjCVCjkoQ)
 
 ![Image1](https://github.com/etnishi/Portfolio/blob/main/TimedTargets/2022-05-15%2017_05_15-Shooter%20Example.png?raw=true)
 View of the targets
