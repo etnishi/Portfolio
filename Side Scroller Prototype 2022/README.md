@@ -29,6 +29,7 @@ SHIFT	Dash in current direction (once unlocked)
 S 	Swim down while in water  (once unlocked)
 L Mouse Shoot projectile  (once unlocked)
 
+![Video](https://youtu.be/-jkgBUW1Rtc)
 
 ![Image1](https://github.com/etnishi/Portfolio/blob/main/Side%20Scroller%20Prototype%202022/2022-05-15%2017_16_01-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 Starting area.
