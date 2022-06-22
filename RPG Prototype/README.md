@@ -10,6 +10,8 @@ in 'Tom and Twig'
 
 Repo: https://github.com/etnishi/RPG_ProjectEtnishi/tree/main
 
+![Video](https://youtu.be/tYwdTYeTybo)
+
 ![Title](https://github.com/etnishi/Portfolio/blob/main/RPG%20Prototype/2022-05-28%2012_32_41-Created%20with%20GameMaker%20Studio%202.png?raw=true)
 Title screen
 
