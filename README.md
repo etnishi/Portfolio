@@ -20,3 +20,6 @@ Sidescroller School Project:
 
 Sidescroller Prototype:
 ![Link](https://github.com/etnishi/Portfolio/tree/main/Side%20Scroller%20Prototype%202022)
+
+RPG Prototype:
+![Link](https://github.com/etnishi/Portfolio/tree/main/RPG%20Prototype)
